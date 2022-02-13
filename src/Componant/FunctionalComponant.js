@@ -4,4 +4,4 @@ function FunctionalComponant() {
     return  <h1> these is an functional componant </h1>
 }
 
-export defualt FunctionalComponants;
+export default FunctionalComponant;

@@ -5,3 +5,4 @@ class ClassComponant extends React.Component() {
     return  <p> these is a clas attribute </p>
 }
 }
+export default ClassComponant;

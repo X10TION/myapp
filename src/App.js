@@ -1,11 +1,16 @@
 //import logo from './logo.svg';
 //import './App.css';
-import FunctionComponant from   "./Componant/FuntionalComponant.js"
+import FunctionComponant from   "./Componant/FunctionalComponant"
+import ClassComponant from "./Componant/ClassComponant";
+
 
 function App() {
   return (
-     <h1 >welcome to react first course </h1>
+     <div >
+     <h1> welcome to react first course </h1>
       <FunctionComponant></FunctionComponant>
+       <ClassComponant></ClassComponant>
+       </div>
   );
 }
 
